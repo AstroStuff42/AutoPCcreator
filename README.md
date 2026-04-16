@@ -22,4 +22,4 @@ Alongside this GUI macro/bot creator features:
 - Mouse scrool (Direction: up, down; Amount (lines))
 - Type text (Choosen text, interval)
 
-![GUI](main/screenshots/screenshot2.png)
+![GUI](/screenshots/screenshot2.png)
