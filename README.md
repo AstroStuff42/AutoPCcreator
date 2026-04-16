@@ -4,6 +4,7 @@ In image captioning you can set:
 - Confidence (how much of image have to match for it to be considered true)
 - Search timeout
 - Search interval
+- Convenient screenshot and crop utility
 
 As for click options with Image Recognition:
 - Click Offset (x, y)
